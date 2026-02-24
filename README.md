@@ -70,7 +70,7 @@ dependencyResolutionManagement {
 
 ```kotlin
 dependencies {
-    implementation("com.github.YourGithubHandle:KomposeKit:1.0.0")
+    implementation("com.github.Aakash898:KomposeKit:1.0.0")
 }
 ```
 
